@@ -1,0 +1,187 @@
+{
+  "custom.ammopickup": {
+    "sounds": [
+      "custom/ammopickup"
+    ]
+  },
+  "custom.c4_beep1": {
+    "sounds": [
+      "custom/c4_beep1"
+    ]
+  },
+  "custom.c4_click": {
+    "sounds": [
+      "custom/c4_click"
+    ]
+  },
+  "custom.c4_disarm": {
+    "sounds": [
+      "custom/c4_disarm"
+    ]
+  },
+  "custom.c4_explode1": {
+    "sounds": [
+      "custom/c4_explode1"
+    ]
+  },
+  "custom.c4_exp_deb1": {
+    "sounds": [
+      "custom/c4_exp_deb1"
+    ]
+  },
+  "custom.c4_exp_deb2": {
+    "sounds": [
+      "custom/c4_exp_deb2"
+    ]
+  },
+  "custom.c4_plant": {
+    "sounds": [
+      "custom/c4_plant"
+    ]
+  },
+  "custom.clipempty_pistol": {
+    "sounds": [
+      "custom/clipempty_pistol"
+    ]
+  },
+  "custom.clipempty_rifle": {
+    "sounds": [
+      "custom/clipempty_rifle"
+    ]
+  },
+  "custom.deagle-1": {
+    "sounds": [
+      "custom/deagle-1"
+    ]
+  },
+  "custom.de_clipin": {
+    "sounds": [
+      "custom/de_clipin"
+    ]
+  },
+  "custom.de_clipout": {
+    "sounds": [
+      "custom/de_clipout"
+    ]
+  },
+  "custom.de_deploy": {
+    "sounds": [
+      "custom/de_deploy"
+    ]
+  },
+  "custom.de_slideback": {
+    "sounds": [
+      "custom/de_slideback"
+    ]
+  },
+  "custom.fiveseven-1": {
+    "sounds": [
+      "custom/fiveseven-1"
+    ]
+  },
+  "custom.fiveseven_clipin": {
+    "sounds": [
+      "custom/fiveseven_clipin"
+    ]
+  },
+  "custom.fiveseven_clipout": {
+    "sounds": [
+      "custom/fiveseven_clipout"
+    ]
+  },
+  "custom.fiveseven_slideback": {
+    "sounds": [
+      "custom/fiveseven_slideback"
+    ]
+  },
+  "custom.fiveseven_slidepull": {
+    "sounds": [
+      "custom/fiveseven_slidepull"
+    ]
+  },
+  "custom.fiveseven_sliderelease": {
+    "sounds": [
+      "custom/fiveseven_sliderelease"
+    ]
+  },
+  "custom.gift_pickup": {
+    "sounds": [
+      "custom/gift_pickup"
+    ]
+  },
+  "custom.grenade_hit1": {
+    "sounds": [
+      "custom/grenade_hit1"
+    ]
+  },
+  "custom.itempickup": {
+    "sounds": [
+      "custom/itempickup"
+    ]
+  },
+  "custom.p228-1": {
+    "sounds": [
+      "custom/p228-1"
+    ]
+  },
+  "custom.p228_clipin": {
+    "sounds": [
+      "custom/p228_clipin"
+    ]
+  },
+  "custom.p228_clipout": {
+    "sounds": [
+      "custom/p228_clipout"
+    ]
+  },
+  "custom.p228_slideback": {
+    "sounds": [
+      "custom/p228_slideback"
+    ]
+  },
+  "custom.p228_slidepull": {
+    "sounds": [
+      "custom/p228_slidepull"
+    ]
+  },
+  "custom.p228_sliderelease": {
+    "sounds": [
+      "custom/p228_sliderelease"
+    ]
+  },
+  "custom.pinpull": {
+    "sounds": [
+      "custom/pinpull"
+    ]
+  },
+  "custom.scout_bolt": {
+    "sounds": [
+      "custom/scout_bolt"
+    ]
+  },
+  "custom.scout_clipin": {
+    "sounds": [
+      "custom/scout_clipin"
+    ]
+  },
+  "custom.scout_clipout": {
+    "sounds": [
+      "custom/scout_clipout"
+    ]
+  },
+  "custom.scout_fire-1": {
+    "sounds": [
+      "custom/scout_fire-1"
+    ]
+  },
+  "custom.sg_explode": {
+    "sounds": [
+      "custom/sg_explode"
+    ]
+  },
+  "custom.zoom": {
+    "sounds": [
+      "custom/zoom"
+    ]
+  }
+}
