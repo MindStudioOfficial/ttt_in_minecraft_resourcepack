@@ -1,0 +1,7 @@
+{
+    "parent": "item/mooshroom_spawn_egg",
+    "textures": {
+        "layer0": "item/c4_24",
+        "layer1": "item/c4_24"
+    }
+}
