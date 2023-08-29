@@ -15,6 +15,12 @@
         "custom_model_data": 2
       },
       "model": "item/pistol"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "item/swapper"
     }
   ]
 }

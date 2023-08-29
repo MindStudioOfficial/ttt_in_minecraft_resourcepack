@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld_rod",
     "textures": {
-        "layer0": "item/rifle_v2"
+        "layer0": "item/swapper"
     }
 }
