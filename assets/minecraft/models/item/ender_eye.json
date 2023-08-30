@@ -1,7 +1,7 @@
 {
-  "parent": "item/handheld_rod",
+  "parent": "item/generated",
   "textures": {
-    "layer0": "item/carrot_on_a_stick"
+    "layer0": "item/ender_eye"
   },
   "overrides": [
     {
@@ -15,6 +15,12 @@
         "custom_model_data": 2
       },
       "model": "item/pistol"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/mp5"
     },
     {
       "predicate": {
