@@ -1,165 +1,194 @@
 {
-    "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "item/c4_00",
         "layer1": "item/c4_00"
     },
     "overrides": [
         {
-    "predicate": {
-        "custom_model_data": 0
-    },
-    "model": "item/mooshroom_spawn_egg_0"
-},{
-    "predicate": {
-        "custom_model_data": 1
-    },
-    "model": "item/mooshroom_spawn_egg_1"
-},{
-    "predicate": {
-        "custom_model_data": 2
-    },
-    "model": "item/mooshroom_spawn_egg_2"
-},{
-    "predicate": {
-        "custom_model_data": 3
-    },
-    "model": "item/mooshroom_spawn_egg_3"
-},{
-    "predicate": {
-        "custom_model_data": 4
-    },
-    "model": "item/mooshroom_spawn_egg_4"
-},{
-    "predicate": {
-        "custom_model_data": 5
-    },
-    "model": "item/mooshroom_spawn_egg_5"
-},{
-    "predicate": {
-        "custom_model_data": 6
-    },
-    "model": "item/mooshroom_spawn_egg_6"
-},{
-    "predicate": {
-        "custom_model_data": 7
-    },
-    "model": "item/mooshroom_spawn_egg_7"
-},{
-    "predicate": {
-        "custom_model_data": 8
-    },
-    "model": "item/mooshroom_spawn_egg_8"
-},{
-    "predicate": {
-        "custom_model_data": 9
-    },
-    "model": "item/mooshroom_spawn_egg_9"
-},{
-    "predicate": {
-        "custom_model_data": 10
-    },
-    "model": "item/mooshroom_spawn_egg_10"
-},{
-    "predicate": {
-        "custom_model_data": 11
-    },
-    "model": "item/mooshroom_spawn_egg_11"
-},{
-    "predicate": {
-        "custom_model_data": 12
-    },
-    "model": "item/mooshroom_spawn_egg_12"
-},{
-    "predicate": {
-        "custom_model_data": 13
-    },
-    "model": "item/mooshroom_spawn_egg_13"
-},{
-    "predicate": {
-        "custom_model_data": 14
-    },
-    "model": "item/mooshroom_spawn_egg_14"
-},{
-    "predicate": {
-        "custom_model_data": 15
-    },
-    "model": "item/mooshroom_spawn_egg_15"
-},{
-    "predicate": {
-        "custom_model_data": 16
-    },
-    "model": "item/mooshroom_spawn_egg_16"
-},{
-    "predicate": {
-        "custom_model_data": 17
-    },
-    "model": "item/mooshroom_spawn_egg_17"
-},{
-    "predicate": {
-        "custom_model_data": 18
-    },
-    "model": "item/mooshroom_spawn_egg_18"
-},{
-    "predicate": {
-        "custom_model_data": 19
-    },
-    "model": "item/mooshroom_spawn_egg_19"
-},{
-    "predicate": {
-        "custom_model_data": 20
-    },
-    "model": "item/mooshroom_spawn_egg_20"
-},{
-    "predicate": {
-        "custom_model_data": 21
-    },
-    "model": "item/mooshroom_spawn_egg_21"
-},{
-    "predicate": {
-        "custom_model_data": 22
-    },
-    "model": "item/mooshroom_spawn_egg_22"
-},{
-    "predicate": {
-        "custom_model_data": 23
-    },
-    "model": "item/mooshroom_spawn_egg_23"
-},{
-    "predicate": {
-        "custom_model_data": 24
-    },
-    "model": "item/mooshroom_spawn_egg_24"
-},{
-    "predicate": {
-        "custom_model_data": 25
-    },
-    "model": "item/mooshroom_spawn_egg_25"
-},{
-    "predicate": {
-        "custom_model_data": 26
-    },
-    "model": "item/mooshroom_spawn_egg_26"
-},{
-    "predicate": {
-        "custom_model_data": 27
-    },
-    "model": "item/mooshroom_spawn_egg_27"
-},{
-    "predicate": {
-        "custom_model_data": 28
-    },
-    "model": "item/mooshroom_spawn_egg_28"
-},{
-    "predicate": {
-        "custom_model_data": 29
-    },
-    "model": "item/mooshroom_spawn_egg_29"
-},{
-    "predicate": {
-        "custom_model_data": 30
-    },
-    "model": "item/mooshroom_spawn_egg_30"
-}
+            "predicate": {
+                "custom_model_data": 0
+            },
+            "model": "item/mooshroom_spawn_egg_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/mooshroom_spawn_egg_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/mooshroom_spawn_egg_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/mooshroom_spawn_egg_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/mooshroom_spawn_egg_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/mooshroom_spawn_egg_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/mooshroom_spawn_egg_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/mooshroom_spawn_egg_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/mooshroom_spawn_egg_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/mooshroom_spawn_egg_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "item/mooshroom_spawn_egg_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/mooshroom_spawn_egg_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "item/mooshroom_spawn_egg_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "item/mooshroom_spawn_egg_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "item/mooshroom_spawn_egg_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "item/mooshroom_spawn_egg_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/mooshroom_spawn_egg_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "item/mooshroom_spawn_egg_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "item/mooshroom_spawn_egg_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "item/mooshroom_spawn_egg_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "item/mooshroom_spawn_egg_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "item/mooshroom_spawn_egg_21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "item/mooshroom_spawn_egg_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "item/mooshroom_spawn_egg_23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "item/mooshroom_spawn_egg_24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "item/mooshroom_spawn_egg_25"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "item/mooshroom_spawn_egg_26"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "item/mooshroom_spawn_egg_27"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "item/mooshroom_spawn_egg_28"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "item/mooshroom_spawn_egg_29"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "item/mooshroom_spawn_egg_30"
+        }
     ]
 }
